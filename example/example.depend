@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1790656421 source:c:\users\cc-ulkb612\desktop\tvorchestvo\example\main.cpp
+	<iostream>
+	<windows.h>
+
+1790656628 source:c:\users\cc-ulkb612\desktop\tvorchestvo\example\func.cpp
+
